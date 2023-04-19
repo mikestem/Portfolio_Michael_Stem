@@ -1,0 +1,25 @@
+import React from 'react';
+
+function About() {
+	return (
+		<section>
+			<div className="center" id="about">
+				<h1 className="page-header">About Me</h1>
+			</div>
+			<div className="center">
+				<img
+					src={require('../../assets/images/head_shot.jpg')}
+					alt="about-me"
+					className="photo"
+				/>
+			</div>
+			<div>
+				<p>
+					I am currently a student in a full stack bootcamp with the University of Penn.
+				</p>
+			</div>
+		</section>
+	);
+}
+
+export default About;
