@@ -15,7 +15,7 @@ function About() {
 			</div>
 			<div>
 				<p>
-					I am currently a student in a full stack bootcamp with the University of Penn.
+					I am currently a student in a full stack bootcamp with the University of Penn where I've developed skills in JavaScript, CSS, ReactJS, NodeJS, MySQL, Sequelize and many others. I'm a graduate of West Chester University and now reside in Norristown, PA. I've spend the last 10 years in the medical and sports industries using my customer service skills in billing and collections. Click on the Resume section of this Portfolio to download my latest resume.
 				</p>
 			</div>
 		</section>
