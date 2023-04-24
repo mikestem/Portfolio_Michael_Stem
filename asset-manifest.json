@@ -1,27 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.360ccd01.css",
-    "main.js": "/static/js/main.42dc82c1.js",
+    "main.js": "/static/js/main.cc40df12.js",
     "static/js/787.b3ce3cd0.chunk.js": "/static/js/787.b3ce3cd0.chunk.js",
     "static/media/Travel-Together.png": "/static/media/Travel-Together.4b18489fa6f8dbdb26ce.png",
     "static/media/head-shot.jpg": "/static/media/head-shot.9c3a1cbcb4fe30df5d12.jpg",
     "static/media/State-Park-Excursion.png": "/static/media/State-Park-Excursion.0209e6fd2c91ba2a6f32.png",
-    "static/media/About_Me.png": "/static/media/About_Me.2d50aba093f9ec27266c.png",
-    "static/media/My_Portfolio.png": "/static/media/My_Portfolio.42bacbcbaf2f9bee1e1f.png",
     "static/media/Weather-Genius.png": "/static/media/Weather-Genius.97a2d8ad98e88d115dbb.png",
     "static/media/Fantastic-Scheduler.png": "/static/media/Fantastic-Scheduler.85b2b07439aa6271406b.png",
-    "static/media/Resume.png": "/static/media/Resume.dd194b41f71e86fe8eb9.png",
     "static/media/Password-Generator.png": "/static/media/Password-Generator.a86122b8fd8b478d071b.png",
     "static/media/Michael-Stem-Resume.docx": "/static/media/Michael-Stem-Resume.d7148df422bdfb6db4f5.docx",
     "static/media/Tech-Blog.png": "/static/media/Tech-Blog.aff6d88c740c681871ee.png",
-    "static/media/Contact_Me.png": "/static/media/Contact_Me.5f56f38586e7faa1f85e.png",
     "index.html": "/index.html",
     "main.360ccd01.css.map": "/static/css/main.360ccd01.css.map",
-    "main.42dc82c1.js.map": "/static/js/main.42dc82c1.js.map",
+    "main.cc40df12.js.map": "/static/js/main.cc40df12.js.map",
     "787.b3ce3cd0.chunk.js.map": "/static/js/787.b3ce3cd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.360ccd01.css",
-    "static/js/main.42dc82c1.js"
+    "static/js/main.cc40df12.js"
   ]
 }
