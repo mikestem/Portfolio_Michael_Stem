@@ -4,6 +4,14 @@ import Project from '../Project';
 function Portfolio() {
 	const projects = [
 		{
+			name: 'Music Match',
+			description:
+				'Search for other musics using this tinder style app to match and chat with potential band mates and set up a time to work on your craft. Just swipe right for matches and begin chatting now!',
+			image: 'Password-Generator.png',
+			github: 'https://github.com/mikestem/Musician-Match',
+			deployed: 'https://enigmatic-woodland-26963.herokuapp.com/',
+		},
+		{
 			name: 'State Park Excursion',
 			description:
 				'This application will allow you to enter your location and pick any state park in the United States and see how far you are from that park. You will also be able to retrieve information about the State Park so you can plan your trip with confidence!',
@@ -42,14 +50,6 @@ function Portfolio() {
 			image: 'Fantastic-Scheduler.png',
 			github: 'https://github.com/mikestem/Fantastic-Scheduler',
 			deployed: 'https://mikestem.github.io/Fantastic-Scheduler/',
-		},
-		{
-			name: 'Password Generator',
-			description:
-				'Need a random password between 8-128 charaters? This app is for you! You can choose whether you want uppercase, lowercase and special characters. Password generator are good for choosing a password no one will find out.',
-			image: 'Password-Generator.png',
-			github: 'https://github.com/mikestem/Password-Generator',
-			deployed: 'https://mikestem.github.io/Password-Generator/',
 		},
 	];
 
