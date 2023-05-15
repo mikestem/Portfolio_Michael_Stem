@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio_Michael_Stem/static/css/main.360ccd01.css",
-    "main.js": "/Portfolio_Michael_Stem/static/js/main.a9dbe41e.js",
+    "main.js": "/Portfolio_Michael_Stem/static/js/main.e85c2277.js",
     "static/js/787.b3ce3cd0.chunk.js": "/Portfolio_Michael_Stem/static/js/787.b3ce3cd0.chunk.js",
     "static/media/Travel-Together.png": "/Portfolio_Michael_Stem/static/media/Travel-Together.4b18489fa6f8dbdb26ce.png",
     "static/media/head-shot.jpg": "/Portfolio_Michael_Stem/static/media/head-shot.9c3a1cbcb4fe30df5d12.jpg",
+    "static/media/music-match.png": "/Portfolio_Michael_Stem/static/media/music-match.5853fc38199e8f1143de.png",
     "static/media/State-Park-Excursion.png": "/Portfolio_Michael_Stem/static/media/State-Park-Excursion.0209e6fd2c91ba2a6f32.png",
     "static/media/About_Me.png": "/Portfolio_Michael_Stem/static/media/About_Me.7ced36768e7b0e5a744d.png",
     "static/media/Portfolio.png": "/Portfolio_Michael_Stem/static/media/Portfolio.e08dcbfda71b701f2b63.png",
@@ -17,11 +18,11 @@
     "static/media/Tech-Blog.png": "/Portfolio_Michael_Stem/static/media/Tech-Blog.aff6d88c740c681871ee.png",
     "index.html": "/Portfolio_Michael_Stem/index.html",
     "main.360ccd01.css.map": "/Portfolio_Michael_Stem/static/css/main.360ccd01.css.map",
-    "main.a9dbe41e.js.map": "/Portfolio_Michael_Stem/static/js/main.a9dbe41e.js.map",
+    "main.e85c2277.js.map": "/Portfolio_Michael_Stem/static/js/main.e85c2277.js.map",
     "787.b3ce3cd0.chunk.js.map": "/Portfolio_Michael_Stem/static/js/787.b3ce3cd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.360ccd01.css",
-    "static/js/main.a9dbe41e.js"
+    "static/js/main.e85c2277.js"
   ]
 }
