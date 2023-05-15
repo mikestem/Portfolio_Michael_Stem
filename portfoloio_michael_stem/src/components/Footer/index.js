@@ -6,7 +6,7 @@ function Footer() {
 			<div>
 				<ul>
        				<li><a href="https://github.com/mikestem">GitHub</a></li>
-        			<li>LinkedIn: <a href="#">Coming Soon</a></li>
+        			<li>LinkedIn: <a>Coming Soon</a></li>
         			<li><a href="https://stackoverflow.com/users/21683713/mikestem">Stack Overflow</a></li>
 				</ul>
 			</div>
